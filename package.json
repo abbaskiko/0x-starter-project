@@ -35,7 +35,7 @@
         "@0x/subproviders": "^6.0.0",
         "@0x/utils": "^5.0.0",
         "@0x/web3-wrapper": "^7.0.0",
-        "body-parser": "^1.19.0",
+        "body-parser": "^1.20.3",
         "cli-table": "^0.3.1",
         "copyfiles": "^2.1.1",
         "ethereumjs-util": "^6.1.0",
